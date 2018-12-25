@@ -1,0 +1,12 @@
+Montelukast:Roweluk:Behrens:7590000000000:1000:15:10/06/2019
+Montelukast:Airon:Behrems:7590003212342:3000:30:05/06/2030
+Cloruro de Potasio al 0.9%:Solucion Nro. 16:Behrems:7590000001234:16000:24:22/06/2022
+Acetaminofen 650mg:Atamel Forte 650mg:Vivax:7593336783213:6000000:48:23/06/2021
+Ringer Lactato:Solucion Nro. 19:Mediplus:7591234567890:5100000:13:24/06/2027
+Dexametasona 8mg:Decobel AMP 8mg:BioTech:7590101010101:12.00:40:25/06/2019
+Omeprazol 40mg:Omevax 40mg:La Sante:7590202020202:3000000:24:25/06/2032
+Metronidazol 500mg/100ml:Bactrizol 500mg/100ml:Behrens:7590303030303:6000000:12:25/06/2020
+Amoxicilina 875mg:Amoxiduo 875mg:Kmig:7590404040404:8000000.56:12:25/06/2020
+Fluconazol 150mg:Fluconazol 150mg:Calox:7590606060606:9000000.56:32:25/03/2021
+Ketoprofeno 100mg:Ketofen 100mg:Vivax:7594325364756:2100000.45:48:01/10/2021
+Ibuprofeno 400mg:Brugesic 400mg:DHC:7659283748596:2000000:23:05/05/2023

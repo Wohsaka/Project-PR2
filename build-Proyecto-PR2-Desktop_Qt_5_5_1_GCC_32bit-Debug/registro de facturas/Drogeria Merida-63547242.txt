@@ -1,0 +1,3 @@
+Proveedor: Drogeria Merida | Fecha: 25/06/2018 | Nro.: 63547242
+Nombre: Omevax 40mg | Cantidad: 24 | Costo: 3000000 | Laboratorio: La Sante | Vencimiento: 25/06/2032 | Componente: Omeprazol 40mg | Codigo: 7590202020202
+

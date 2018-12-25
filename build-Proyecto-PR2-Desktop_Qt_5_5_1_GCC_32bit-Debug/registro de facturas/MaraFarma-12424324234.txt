@@ -1,0 +1,3 @@
+Proveedor: MaraFarma | Fecha: 25/06/2018 | Nro.: 12424324234
+Nombre: Fluconazol 150mg | Cantidad: 32 | Costo: 9000000.56 | Laboratorio: Calox | Vencimiento: 25/03/2021 | Componente: Fluconazol 150mg | Codigo: 7590606060606
+

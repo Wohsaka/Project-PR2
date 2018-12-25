@@ -1,0 +1,3 @@
+Proveedor: Profar | Fecha: 25/06/2018 | Nro.: 457534353
+Nombre: Roweluk | Cantidad: 3 | Costo: 1000 | Laboratorio: Behrens | Vencimiento: 10/06/2019 | Componente: Montelukast | Codigo: 7590000000000
+Nombre: Brugesic 400mg | Cantidad: 23 | Costo: 2000000 | Laboratorio: DHC | Vencimiento: 05/05/2023 | Componente: Ibuprofeno 400mg | Codigo: 7659283748596

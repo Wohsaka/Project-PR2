@@ -1,0 +1,3 @@
+Proveedor: Puertofarma | Fecha: 25/06/2018 | Nro.: 35235242
+Nombre: Amoxiduo 875mg | Cantidad: 12 | Costo: 8000000.56 | Laboratorio: Kmig | Vencimiento: 25/06/2020 | Componente: Amoxicilina 875mg | Codigo: 7590404040404
+
